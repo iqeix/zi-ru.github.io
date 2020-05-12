@@ -1,7 +1,7 @@
 # Site settings
 title: WZR Blog
 SEOTitle: 王梓儒的博客 | WZR Blog
-# header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.jpg
 email: wzr_mail@foxmail.com
 description: "Everything will be fine. "
 keyword: "WZR, WZR Blog, 王梓儒的博客, wangziru, 王梓儒, STM32, FPGA, IC"
