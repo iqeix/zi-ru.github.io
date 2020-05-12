@@ -60,7 +60,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 813871a550d85d1baf25                            #生成的clientID
   clientSecret: f76c97f835396917d5e409dd8b5b6dd60ecd2913    #生成的clientSecret
   repo: zi-ru.github.io    #仓库名称
