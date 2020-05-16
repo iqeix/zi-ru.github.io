@@ -114,7 +114,7 @@ layout: default
                 <!-- disqus 评论框 end -->
                 {% endif %}
 
-            </div>  
+            </div>
 
     <!-- Side Catalog Container -->
         {% if page.catalog %}
@@ -171,6 +171,27 @@ layout: default
     </div>
 </article>
 
+
+<!-- Valine 评论 start  -->
+<!--评论显示区，请插入合适的位置-->
+
+<div id="comment"></div>
+<!--Leancloud 操作库:-->
+
+<script src="//cdn1.lncld.net/static/js/3.6.1/av-min.js"></script>
+<!--Valine 的核心代码库-->
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script>
+    new Valine({
+		el:'#comment',
+		path:'window.location.pathname',
+        appId: 'hvyY9aIUsoAlC1VALz0JcGnS-gzGzoHsz',
+        appKey: 'GPN9Kh52t3sOwThwYCsYNkkA',
+        placeholder: 'ヾﾉ≧∀≦)o快来评论一下吧!',
+        avatar:''
+    });
+</script>
+<!-- Valine end  -->
 
 {% if site.disqus_username %}
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
