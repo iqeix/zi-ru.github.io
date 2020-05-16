@@ -1,10 +1,10 @@
 # Site settings
 title: WZR Blog
-SEOTitle: 王梓儒的博客 | WZR Blog
+SEOTitle: WZR的博客 | WZR Blog
 header-img: img/post-bg-desk.jpg
 email: wzr_mail@foxmail.com
 description: "Everything will be fine. "
-keyword: "WZR, WZR Blog, 王梓儒的博客, wangziru, 王梓儒, STM32, FPGA, IC"
+keyword: "WZR, WZR Blog, WZR的博客, wangziru, STM32, FPGA, IC"
 url: "http://zi-ru.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zi-ru/zi-ru.github.io.git" # you code repository
