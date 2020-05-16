@@ -97,11 +97,11 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "wzr",
-        href: "https://www.zhihu.com/people/xing-yun-62-3"
-    },{
-        title: "wzr",
-        href: "https://www.jianshu.com/u/61fd29d1508c/"
-    }
+    # {
+    #     title: "wzr",
+    #     href: "https://www.zhihu.com/people/xing-yun-62-3"
+    # },{
+    #     title: "wzr",
+    #     href: "https://www.jianshu.com/u/61fd29d1508c/"
+    # }
 ]
